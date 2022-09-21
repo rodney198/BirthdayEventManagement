@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/xsl" href="jmmmr.xsl"?>
+
+<Cuustomer>
+<Cust-Details>
+<landmark>Tajmahal</landmark>
+<location>Agra</location>
+<country>India</country>
+<rates>50000</rates>
+
+</Cust-Details>
+<Cust-Details>
+<landmark>Bandstand</landmark>
+<location>Bandra</location>
+<country>India</country>
+<rates>54000</rates>
+
+</Cust-Details>
+<Cust-Details>
+<landmark>Gateway of India</landmark>
+<location>Colaba</location>
+<country>India</country>
+<rates>80000</rates>
+
+</Cust-Details>
+<Cust-Details>
+<landmark>Eiffel Tower</landmark>
+<location>Paris</location>
+<country>France</country>
+<rates>54554</rates>
+
+</Cust-Details>
+</Cuustomer>
